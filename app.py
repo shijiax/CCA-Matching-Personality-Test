@@ -2,7 +2,7 @@ print("Title of program: CCA Matching Personality test")
 print()
 print("Welcome to DHS! Please answer the following questions truthfully and we'll suggest a suitable CCA for you!")
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
-print()
+print("Now let's begin the test!")
 
 tech1 = input("I enjoy building and fixing things.")
 
